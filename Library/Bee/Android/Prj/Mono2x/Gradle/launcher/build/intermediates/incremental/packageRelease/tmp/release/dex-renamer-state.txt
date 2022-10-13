@@ -1,0 +1,4 @@
+#Thu Oct 13 22:33:46 GMT+03:00 2022
+base.0=F\:\\Soft\\TimedCubes\\New Unity Project\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
